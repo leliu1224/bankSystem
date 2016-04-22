@@ -1,0 +1,314 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dire",
+				"directory"
+			],
+			[
+				"read",
+				"read_from_dir"
+			],
+			[
+				"strc",
+				"strcmp"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp",
+				"SFTP: Sync Both Directions…"
+			],
+			[
+				"browse server",
+				"SFTP: Browse Server…"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/le/Design of Algorithm.txt",
+		"/home/le/notes.txt",
+		"/home/le/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/le/railsApps/pinterest_clone/SystemLecture.c",
+		"/home/le/SystemsNotes.c",
+		"/home/le/railsApps/pinterest_clone/app/views/layouts/application.html.erb",
+		"/home/le/railsApps/pinterest_clone/testSFTP/sftp-config.json",
+		"/home/le/railsApps/pinterest_clone/testSFTP/test1",
+		"/home/le/railsApps/pinterest_clone/config/routes.rb",
+		"/home/le/railsApps/pinterest_clone/app/controllers/application_controller.rb",
+		"/home/le/sublimeNotes.txt",
+		"/home/le/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/home/le/Desktop/Design of Algorithm Notes",
+		"/home/le/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/le/Desktop/fsa_sim_handout.pl",
+		"/home/le/JavaDevInterview.txt",
+		"/home/le/NetBeansProjects/photoalbum40/src/appData/albumListForbob.ser",
+		"/home/le/Desktop/Homework 5.txt",
+		"/home/le/.config/sublime-text-3/Packages/User/test.sublime-snippet",
+		"/home/le/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/le/railsApps/pinterest_clone/app/assets/javascripts/application.js",
+		"/home/le/exam.java",
+		"/home/le/railsApps/pinterest_clone/app/assets/stylesheets/application.css",
+		"/home/le/railsApps/pinterest_clone/config/application.rb",
+		"/home/le/.config/sublime-text-3/Packages/AdvancedNewFile/README.md",
+		"/home/le/.config/sublime-text-3/Packages/User/AdvancedNewFile.sublime-settings"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sftp",
+			"java",
+			"fib",
+			"grandparent",
+			"edge",
+			"department",
+			"detect_indentation",
+			"get",
+			"Rails",
+			"class",
+			"routes"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"output.sftp":
+	{
+		"height": 122.0
+	},
+	"pinned_build_system": "",
+	"project": "bankSystem.sublime-workspace",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"system",
+				"SystemLecture.c"
+			],
+			[
+				"erb",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"controll",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				".js",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"view",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"controller",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"application",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"scss",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/bank_system/bankSystem.sublime-project"
+			],
+			[
+				"note",
+				"~/sublime-projects/notes.sublime-project"
+			],
+			[
+				"ass",
+				"~/sublime-projects/assignment4.sublime-project"
+			],
+			[
+				"inde",
+				"~/sublime-projects/indexer.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
